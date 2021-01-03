@@ -1,0 +1,20 @@
+{
+  "name": "parcel-tailwind-starter",
+  "version": "0.1.0",
+  "description": "Simple Tailwind CSS + PurgeCSS + ParcelJS starter project.",
+  "author": "Cody",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^3.1.3",
+    "autoprefixer": "^9",
+    "cssnano": "^4.1.10",
+    "parcel-plugin-nuke-dist": "^1.0.1",
+    "postcss": "^7",
+    "sass": "^1.32.0",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat"
+  }
+}
