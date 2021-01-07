@@ -10,7 +10,7 @@
 
 ## Requirements
 
-You must installed parcel-bundler globally.
+You must install parcel-bundler globally.
 ```sh
 npm i -g parcel-bundler
 ```
