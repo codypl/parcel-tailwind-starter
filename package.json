@@ -1,7 +1,7 @@
 {
-  "name": "tailwindcss2-parcel-starter",
+  "name": "parcel-tailwind-starter",
   "version": "2.0.0",
-  "description": "Simple TailwindCSS 2 starter with Parcel 2",
+  "description": "Simple TailwindCSS v2 starter with Parcel v2",
   "scripts": {
     "prebuild": "rimraf .cache && rimraf dist",
     "build": "npm run prebuild && parcel build src/*.html",
