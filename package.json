@@ -1,22 +1,22 @@
 {
-  "name": "parcel-tailwind-starter",
-  "version": "0.1.0",
-  "description": "Simple Tailwind CSS + PurgeCSS + ParcelJS starter project.",
-  "author": "Cody",
-  "license": "MIT",
+  "name": "tailwindcss2-parcel-starter",
+  "version": "2.0.0",
+  "description": "Simple TailwindCSS 2 starter with Parcel 2",
   "scripts": {
-    "dev": "parcel src/index.html",
-    "build": "npx parcel build src/index.html"
+    "prebuild": "rimraf .cache && rimraf dist",
+    "build": "npm run prebuild && parcel build src/*.html",
+    "dev": "parcel src/*.html"
   },
+  "license": "MIT",
+  "private": true,
   "dependencies": {
-    "@tailwindcss/postcss7-compat": "^2.0.2",
-    "autoprefixer": "^9.8.6",
-    "postcss": "^7.0.35",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"
+    "autoprefixer": "9.8.6",
+    "postcss": "7.0.35",
+    "tailwindcss": "2.0.1-compat"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.12.4",
-    "parcel-plugin-nuke-dist": "^1.0.1",
-    "sass": "^1.32.0"
+    "@parcel/transformer-sass": "^2.0.0-beta.2",
+    "parcel": "^2.0.0-beta.2",
+    "rimraf": "^3.0.2"
   }
 }

@@ -6,31 +6,21 @@
   </a>
 </p>
 
-> Simple Tailwind CSS + PurgeCSS + ParcelJS starter project.
-
-## Requirements
-
-You must install parcel-bundler globally.
-```sh
-npm i -g parcel-bundler
-```
-
-
+> Simple Tailwind CSS + ParcelJS starter project.
 
 ## Get Started
-Clone this repository and install the dependencies :
 ```
+# Clone repo
 git clone https://github.com/codypl/parcel-tailwind-starter.git
 cd parcel-tailwind-starter
-npm install
-```
 
-Run dev server - http://localhost:1234/
-```
+# Install dependencies
+npm i
+
+# Run dev server - available at http://localhost:1234
 npm run dev
-```
-Build for production
-```
+
+# Run production build
 npm run build
 ```
 
