@@ -6,7 +6,7 @@
   </a>
 </p>
 
-Parcel 2.0.0 + Tailwind CSS 2.0.1
+Parcel 2 + Tailwind CSS 2.0.1
 
 ## Get Started
 ```
