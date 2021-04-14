@@ -1,6 +1,0 @@
-[build]
-  # Publish directory
-  publish = "dist"
-
-  # Default build command.
-  command = "npm run build"
