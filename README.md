@@ -1,12 +1,12 @@
 <h1 align="center">Welcome to parcel-tailwind-starter 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-2.1.4-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-2.2.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/codypl/parcel-tailwind-starter/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
 
-Parcel 2 + Tailwind CSS 2.1.4
+Parcel 2 + Tailwind CSS 2.2.0
 
 ## Get Started
 ```
