@@ -1,6 +1,6 @@
 {
   "name": "parcel-tailwind-starter",
-  "version": "2.2.15",
+  "version": "2.2.16",
   "description": "Simple TailwindCSS v2 starter with Parcel v2",
   "scripts": {
     "prebuild": "rimraf .cache && rimraf dist",
@@ -14,8 +14,8 @@
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.0-rc.0",
-    "autoprefixer": "^10.3.5",
-    "postcss": "^8.3.7",
-    "tailwindcss": "^2.2.15"
+    "autoprefixer": "^10.3.6",
+    "postcss": "^8.3.8",
+    "tailwindcss": "^2.2.16"
   }
 }
