@@ -14,8 +14,8 @@
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.0-rc.0",
-    "autoprefixer": "^10.3.6",
-    "postcss": "^8.3.8",
+    "autoprefixer": "^10.3.7",
+    "postcss": "^8.3.9",
     "tailwindcss": "^2.2.16"
   }
 }
