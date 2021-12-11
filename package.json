@@ -1,7 +1,7 @@
 {
   "name": "parcel-tailwind-starter",
-  "version": "3.0.0",
-  "description": "Simple TailwindCSS v3 aplha starter with Parcel v2",
+  "version": "3.0.1",
+  "description": "Simple TailwindCSS v3 starter with Parcel v2",
   "scripts": {
     "prebuild": "rimraf .cache && rimraf dist",
     "build": "npm run prebuild && parcel build src/*.html",
@@ -16,6 +16,6 @@
     "@parcel/transformer-sass": "^2.0.1",
     "autoprefixer": "^10.4.0",
     "postcss": "^8.4.4",
-    "tailwindcss": "^3.0.0"
+    "tailwindcss": "^3.0.1"
   }
 }
