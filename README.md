@@ -1,4 +1,4 @@
-<h1 align="center">Parcel 2.4.1 + Tailwind CSS 3.0.23</h1>
+<h1 align="center">Parcel 2.5.0 + Tailwind CSS 3.0.24</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-3.0.23-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/codypl/parcel-tailwind-starter/blob/main/LICENSE" target="_blank">
