@@ -10,12 +10,12 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "parcel": "^2.10.3",
-    "tailwindcss": "^3.4.0"
+    "parcel": "^2.12.0",
+    "tailwindcss": "^3.4.1"
   },
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.10.3",
-    "autoprefixer": "^10.4.16",
-    "postcss": "^8.4.32"
+    "@parcel/transformer-sass": "^2.12.0",
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.35"
   }
 }
